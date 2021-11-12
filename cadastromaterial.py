@@ -6,7 +6,7 @@
 # 3) Inteligencia da interface gráfica
     # - Função
 
-# Importaçã odas bibliotecas
+# Importação das bibliotecas
 import tkinter as tk
 from tkinter import ttk
 import datetime as dt
